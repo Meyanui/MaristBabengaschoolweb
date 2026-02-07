@@ -1,11 +1,11 @@
 import { Card, CardContent } from "@/components/ui/card";
 import computerLab from "@/assets/computer-lab.jpg";
 import boardingDorm from "@/assets/boarding-dorm.jpg";
-import musicClass from "@/assets/music-class.jpg";
+import musicClass from "@/assets/guitars.jpg";
 import chapel from "@/assets/chapel.jpg";
 import sportsField from "@/assets/sports-field.jpg";
 import scienceLab from "@/assets/science-lab.jpg";
-import schoolStudents from "@/assets/school-students.jpg";
+import schoolStudents from "@/assets/f12Kids.jpg";
 
 const Gallery = () => {
   const galleryImages = [

@@ -43,7 +43,7 @@ const Programs = () => {
                   <li>• Social Studies & History</li>
                   <li>• Physical Education</li>
                   <li>• Religious Education</li>
-                  <li>• Preparation for national exams (GCE, Baccalaureate)</li>
+                  <li>• Preparation for national exams (GCE)</li>
                 </ul>
               </CardContent>
             </Card>
